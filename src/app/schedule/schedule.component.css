@@ -1,3 +1,15 @@
 table {
   width: 100%;
 }
+
+th {
+  width: 150px;
+}
+
+th.mat-column-date {
+  width: 200px;
+}
+
+th.mat-column-partySize {
+  width: 80px;
+}
